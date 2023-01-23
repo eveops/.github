@@ -1,5 +1,7 @@
 # Aura: Operations management tools for EVE Online
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
 :construction: **Coming soon** :construction:
 
 ## License
