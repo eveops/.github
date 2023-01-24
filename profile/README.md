@@ -1,4 +1,4 @@
-# Aura: Operations management tools for EVE Online
+# EVEOps: Operations management tools for EVE Online
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
@@ -16,7 +16,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### CCP hf. Developer License Agreement
 
-All Aura projects are developed in accordance with the [CCP hf. Developer License Agreement](https://developers.eveonline.com/resource/license-agreement).
+All EVEOps projects are developed in accordance with the [CCP hf. Developer License Agreement](https://developers.eveonline.com/resource/license-agreement).
 
 CCP Tools and Game Data as defined by the CCP hf. Developer License Agreement &copy; 1997-2023 CCP hf. All rights reserved.
 
